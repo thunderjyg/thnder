@@ -1,0 +1,16 @@
+F:\wnmp\cms_HzyAdmin\DAL\bin\Debug\netcoreapp2.1\DAL.deps.json
+F:\wnmp\cms_HzyAdmin\DAL\bin\Debug\netcoreapp2.1\DAL.dll
+F:\wnmp\cms_HzyAdmin\DAL\bin\Debug\netcoreapp2.1\DAL.pdb
+F:\wnmp\cms_HzyAdmin\DAL\bin\Debug\netcoreapp2.1\Common.dll
+F:\wnmp\cms_HzyAdmin\DAL\bin\Debug\netcoreapp2.1\DbFrame.dll
+F:\wnmp\cms_HzyAdmin\DAL\bin\Debug\netcoreapp2.1\Models.dll
+F:\wnmp\cms_HzyAdmin\DAL\bin\Debug\netcoreapp2.1\Common.pdb
+F:\wnmp\cms_HzyAdmin\DAL\bin\Debug\netcoreapp2.1\DbFrame.pdb
+F:\wnmp\cms_HzyAdmin\DAL\bin\Debug\netcoreapp2.1\Models.pdb
+F:\wnmp\cms_HzyAdmin\DAL\obj\Debug\netcoreapp2.1\DAL.csprojAssemblyReference.cache
+F:\wnmp\cms_HzyAdmin\DAL\obj\Debug\netcoreapp2.1\DAL.csproj.CoreCompileInputs.cache
+F:\wnmp\cms_HzyAdmin\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfoInputs.cache
+F:\wnmp\cms_HzyAdmin\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfo.cs
+F:\wnmp\cms_HzyAdmin\DAL\obj\Debug\netcoreapp2.1\DAL.csproj.CopyComplete
+F:\wnmp\cms_HzyAdmin\DAL\obj\Debug\netcoreapp2.1\DAL.dll
+F:\wnmp\cms_HzyAdmin\DAL\obj\Debug\netcoreapp2.1\DAL.pdb

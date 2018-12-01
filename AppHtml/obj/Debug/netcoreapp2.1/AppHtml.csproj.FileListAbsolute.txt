@@ -1,0 +1,12 @@
+F:\wnmp\cms_HzyAdmin\AppHtml\bin\Debug\netcoreapp2.1\AppHtml.deps.json
+F:\wnmp\cms_HzyAdmin\AppHtml\bin\Debug\netcoreapp2.1\AppHtml.dll
+F:\wnmp\cms_HzyAdmin\AppHtml\bin\Debug\netcoreapp2.1\AppHtml.pdb
+F:\wnmp\cms_HzyAdmin\AppHtml\bin\Debug\netcoreapp2.1\DbFrame.dll
+F:\wnmp\cms_HzyAdmin\AppHtml\bin\Debug\netcoreapp2.1\DbFrame.pdb
+F:\wnmp\cms_HzyAdmin\AppHtml\obj\Debug\netcoreapp2.1\AppHtml.csprojAssemblyReference.cache
+F:\wnmp\cms_HzyAdmin\AppHtml\obj\Debug\netcoreapp2.1\AppHtml.csproj.CoreCompileInputs.cache
+F:\wnmp\cms_HzyAdmin\AppHtml\obj\Debug\netcoreapp2.1\AppHtml.AssemblyInfoInputs.cache
+F:\wnmp\cms_HzyAdmin\AppHtml\obj\Debug\netcoreapp2.1\AppHtml.AssemblyInfo.cs
+F:\wnmp\cms_HzyAdmin\AppHtml\obj\Debug\netcoreapp2.1\AppHtml.csproj.CopyComplete
+F:\wnmp\cms_HzyAdmin\AppHtml\obj\Debug\netcoreapp2.1\AppHtml.dll
+F:\wnmp\cms_HzyAdmin\AppHtml\obj\Debug\netcoreapp2.1\AppHtml.pdb

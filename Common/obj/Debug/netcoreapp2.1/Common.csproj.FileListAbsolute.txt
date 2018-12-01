@@ -1,0 +1,9 @@
+F:\wnmp\cms_HzyAdmin\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+F:\wnmp\cms_HzyAdmin\Common\bin\Debug\netcoreapp2.1\Common.dll
+F:\wnmp\cms_HzyAdmin\Common\bin\Debug\netcoreapp2.1\Common.pdb
+F:\wnmp\cms_HzyAdmin\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+F:\wnmp\cms_HzyAdmin\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+F:\wnmp\cms_HzyAdmin\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+F:\wnmp\cms_HzyAdmin\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+F:\wnmp\cms_HzyAdmin\Common\obj\Debug\netcoreapp2.1\Common.dll
+F:\wnmp\cms_HzyAdmin\Common\obj\Debug\netcoreapp2.1\Common.pdb

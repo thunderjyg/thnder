@@ -1,0 +1,9 @@
+F:\wnmp\cms_HzyAdmin\DbFrame\bin\Debug\netcoreapp2.1\DbFrame.deps.json
+F:\wnmp\cms_HzyAdmin\DbFrame\bin\Debug\netcoreapp2.1\DbFrame.dll
+F:\wnmp\cms_HzyAdmin\DbFrame\bin\Debug\netcoreapp2.1\DbFrame.pdb
+F:\wnmp\cms_HzyAdmin\DbFrame\obj\Debug\netcoreapp2.1\DbFrame.csprojAssemblyReference.cache
+F:\wnmp\cms_HzyAdmin\DbFrame\obj\Debug\netcoreapp2.1\DbFrame.csproj.CoreCompileInputs.cache
+F:\wnmp\cms_HzyAdmin\DbFrame\obj\Debug\netcoreapp2.1\DbFrame.AssemblyInfoInputs.cache
+F:\wnmp\cms_HzyAdmin\DbFrame\obj\Debug\netcoreapp2.1\DbFrame.AssemblyInfo.cs
+F:\wnmp\cms_HzyAdmin\DbFrame\obj\Debug\netcoreapp2.1\DbFrame.dll
+F:\wnmp\cms_HzyAdmin\DbFrame\obj\Debug\netcoreapp2.1\DbFrame.pdb
